@@ -1,5 +1,5 @@
 # Maternal-Health-Risk-Analysis
-# Description
+# Objective
 This project is a beginner-level python project aimed to predict and understand health risks during pregnancy, emphasizing key indicators. By analyzing factors such as elevated blood glucose, blood pressure levels and age, the project aims to provide valuable insights for improved maternal care.
 
 # Dataset Description
